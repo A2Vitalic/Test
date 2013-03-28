@@ -6,7 +6,7 @@ package test2;
 
 /**
  *
- * @author 3130052
+ * @author 3130052 en 3130065
  */
 public class TEST2 {
 
